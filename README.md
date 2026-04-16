@@ -20,4 +20,5 @@ This repository contains multiple beginner-level Python projects created for pra
    python filename.py
 
 ## Author
-- Your Name...
+  Sachin Singh
+  
